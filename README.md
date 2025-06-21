@@ -3,7 +3,7 @@
 A minimal Trello/Asana-inspired collaboration tool built with React (frontend) and Node.js/Express (backend). Manage boards and tasks with a clean and simple interface.
 
 - **GitHub Repository**: https://github.com/rohitn911/Team-Collaboration-Board  
-- **Live Demo**: https://your-deployed-app.com
+- **Live Demo**: https://team-collaboration-board-two.vercel.app/
 
 ---
 
